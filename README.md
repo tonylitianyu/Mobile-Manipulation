@@ -23,7 +23,7 @@ numpy
 
 
 ### Task 1
-![] (https://j.gifs.com/E8n2Yv.gif)
+![task 1] (https://j.gifs.com/E8n2Yv.gif)
 
 ### Task 2
-![] (https://j.gifs.com/xnJBY9.gif)
+![task 2] (https://j.gifs.com/xnJBY9.gif)
