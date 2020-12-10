@@ -14,21 +14,17 @@ numpy
 
 1. Initialize youBot kinematics
 2. Generate trajectory for the end-effector of the arm
-3. Start simulation:
-  a. Calculate current state
-  b. Calculate control force for both joints and wheels using feedforward plus PID
-  c. Check joint limit
-  d. Update odometry
-  e. Repeat
+3. Start simulation:  
+  a. Calculate current state  
+  b. Calculate control force for both joints and wheels using feedforward plus PID  
+  c. Check joint limit  
+  d. Update odometry  
+  e. Repeat  
 4. Plot
   
 ## Result
 
 ### Task 1
-Step Response for the twist error:
-
-
-Demo
 ![task 1](task1.gif)
 
 ### Task 2
