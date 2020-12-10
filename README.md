@@ -1,6 +1,6 @@
 # Mobile-Manipulation
 
-Using a youBot mobile manipulator to perform a pick-and-place task for a cube by planning trajectory, performing feedback control, and calculating odometry for the omnidirectional wheels. Joint limit is implemented to avoid self-collision and sigularity.
+In the coppeliasim, using a youBot mobile manipulator to perform a pick-and-place task for a cube by planning trajectory, performing feedback control, and calculating odometry for the omnidirectional wheels. Joint limit is implemented to avoid self-collision and sigularity.
 
 The code for this project cannot be made public. If you are interested, please email me for more details.
 
