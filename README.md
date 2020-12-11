@@ -12,7 +12,7 @@ numpy
 
 ## Steps
 
-1. Initialize youBot kinematics
+1. Initialize youBot kinematics （Please refer to the Modern Robotics textbook exercise 13.33 for details)
 2. Generate trajectory for the end-effector of the arm
 3. Start simulation:  
   a. Calculate current state  
