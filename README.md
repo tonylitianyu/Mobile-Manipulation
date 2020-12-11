@@ -29,7 +29,7 @@ numpy
 Demo:  
 <img src="task1.gif" width="800"/>
 
-Step response for error twist:   
+Error twist:   
 <img src="best/Xerr_plot-1.png" width="800"/>
 
 
@@ -38,5 +38,5 @@ Step response for error twist:
 Demo:  
 <img src="task2.gif" width="800"/>
 
-Step response for error twist:  
+Error twist:  
 <img src="newTask/Xerr_plot-1.png" width="800"/>
