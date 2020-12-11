@@ -24,8 +24,8 @@ numpy
   
 ## Result
 
-### Task 1
-![task 1](task1.gif)
+### Demo 1
+<img src="task1.gif" width="800"/>
 
-### Task 2
-![task 2](task2.gif)
+### Demo 2
+<img src="task2.gif" width="800"/>
