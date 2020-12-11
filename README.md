@@ -24,8 +24,19 @@ numpy
   
 ## Result
 
-### Demo 1
+### Task 1
+
+Demo:  
 <img src="task1.gif" width="800"/>
 
-### Demo 2
+Step response for error twist:   
+<img src="best/Xerr_plot-1.png" width="800"/>
+
+
+### Task 2
+
+Demo:  
 <img src="task2.gif" width="800"/>
+
+Step response for error twist:  
+<img src="newTask/Xerr_plot-1.png" width="800"/>
