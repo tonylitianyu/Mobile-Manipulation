@@ -24,16 +24,16 @@ numpy
 
 ## youBot Kinematics
 - Omni-directional mobile base  
-  ![](http://hades.mech.northwestern.edu/images/thumb/c/c8/Yb-base-capstone.png/300px-Yb-base-capstone.png)
+  ![](http://hades.mech.northwestern.edu/images/thumb/c/c8/Yb-base-capstone.png/300px-Yb-base-capstone.png)  
 
 - Arm  
   - Dimension and frames  
     ![](http://hades.mech.northwestern.edu/images/thumb/3/33/Yb-book.png/500px-Yb-book.png)  
     ![](http://hades.mech.northwestern.edu/images/math/c/9/0/c9032f3f6bf50c6f77853b04e3c2b542.png)  
-    ![](http://hades.mech.northwestern.edu/images/math/3/f/b/3fb287b1dcc4d719b721791e3fb1da6e.png)
+    ![](http://hades.mech.northwestern.edu/images/math/3/f/b/3fb287b1dcc4d719b721791e3fb1da6e.png)  
 
   - Screw axes with home configuration  
-    ![](http://hades.mech.northwestern.edu/images/math/e/6/8/e680119b43afbf48ddfe3e328318c260.png)
+    ![](http://hades.mech.northwestern.edu/images/math/e/6/8/e680119b43afbf48ddfe3e328318c260.png)  
     ![](http://hades.mech.northwestern.edu/images/math/a/a/2/aa219a0a08e4b12ffdd065fe79f6327c.png)  
     ![](http://hades.mech.northwestern.edu/images/math/7/3/3/7332314e1692adee49e7f1fb55681c80.png)  
     ![](http://hades.mech.northwestern.edu/images/math/9/1/7/9179792f7910beaef1c9c63ca4265eaa.png)  
@@ -74,3 +74,8 @@ Demo:
 
 Error twist:  
 <img src="newTask/Xerr_plot-1.png" width="800"/>
+
+
+## Image Credit and Reference
+
+http://hades.mech.northwestern.edu/index.php/ME_449_Robotic_Manipulation
